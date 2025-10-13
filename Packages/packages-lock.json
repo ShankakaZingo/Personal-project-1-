@@ -213,9 +213,9 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.androidjni": "1.0.0",
         "com.unity.nuget.newtonsoft-json": "3.2.1",
-        "com.unity.modules.androidjni": "1.0.0"
+        "com.unity.modules.unitywebrequest": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -288,6 +288,13 @@
         "com.unity.modules.xr": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "se.su.dsv.extralitylab.unity": {
+      "version": "https://gitea.dsv.su.se/ExtralityLab/se.su.dsv.extralitylab.unity.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "557ad3216715cc62477041bdf5c10a62fc9b2a6a"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
